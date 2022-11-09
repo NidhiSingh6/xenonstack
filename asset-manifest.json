@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/xenonstack/static/css/main.9fbf62ed.css",
-    "main.js": "/xenonstack/static/js/main.f75dea67.js",
+    "main.css": "/xenonstack/static/css/main.2a25379a.css",
+    "main.js": "/xenonstack/static/js/main.37227359.js",
+    "static/media/9.jpg": "/xenonstack/static/media/9.8fdbbd2e7e4c037477b2.jpg",
+    "static/media/10.jpg": "/xenonstack/static/media/10.4e57aea2a4273ad1ce5b.jpg",
+    "static/media/5.jpg": "/xenonstack/static/media/5.2e80cac3ca0c87182b53.jpg",
+    "static/media/1.jpg": "/xenonstack/static/media/1.aecf4a0346e37d03833c.jpg",
+    "static/media/7.jpg": "/xenonstack/static/media/7.944df08f50840c46122a.jpg",
+    "static/media/8.jpg": "/xenonstack/static/media/8.b3d9923785e362c81bce.jpg",
+    "static/media/4.jpg": "/xenonstack/static/media/4.9695d8979dc8d9d5f79b.jpg",
+    "static/media/6.jpg": "/xenonstack/static/media/6.487114dbaf453c1b80a0.jpg",
+    "static/media/12.jpg": "/xenonstack/static/media/12.498047d0338e06bcbae6.jpg",
+    "static/media/3.jpg": "/xenonstack/static/media/3.fa706575c5874851733a.jpg",
+    "static/media/11.jpg": "/xenonstack/static/media/11.aea54f8dd6fb879b638b.jpg",
+    "static/media/2.jpg": "/xenonstack/static/media/2.33171b12091d6cff8be6.jpg",
     "static/media/logo.png": "/xenonstack/static/media/logo.df8dc739054f25bf183f.png",
     "static/media/bg.png": "/xenonstack/static/media/bg.a7aebeaf58d091c3bcd1.png",
     "index.html": "/xenonstack/index.html",
-    "main.9fbf62ed.css.map": "/xenonstack/static/css/main.9fbf62ed.css.map",
-    "main.f75dea67.js.map": "/xenonstack/static/js/main.f75dea67.js.map"
+    "main.2a25379a.css.map": "/xenonstack/static/css/main.2a25379a.css.map",
+    "main.37227359.js.map": "/xenonstack/static/js/main.37227359.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fbf62ed.css",
-    "static/js/main.f75dea67.js"
+    "static/css/main.2a25379a.css",
+    "static/js/main.37227359.js"
   ]
 }
