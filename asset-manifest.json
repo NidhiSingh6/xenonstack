@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xenonstack/static/css/main.9fbf62ed.css",
+    "main.js": "/xenonstack/static/js/main.565d3915.js",
+    "static/media/logo.png": "/xenonstack/static/media/logo.df8dc739054f25bf183f.png",
+    "static/media/bg.png": "/xenonstack/static/media/bg.a7aebeaf58d091c3bcd1.png",
+    "index.html": "/xenonstack/index.html",
+    "main.9fbf62ed.css.map": "/xenonstack/static/css/main.9fbf62ed.css.map",
+    "main.565d3915.js.map": "/xenonstack/static/js/main.565d3915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbf62ed.css",
+    "static/js/main.565d3915.js"
+  ]
+}
