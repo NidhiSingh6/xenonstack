@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/xenonstack/static/css/main.5d0a97ee.css",
-    "main.js": "/xenonstack/static/js/main.3c6eacf1.js",
+    "main.css": "/xenonstack/static/css/main.79fcc3cf.css",
+    "main.js": "/xenonstack/static/js/main.d0ca5bf5.js",
     "static/media/9.jpg": "/xenonstack/static/media/9.8fdbbd2e7e4c037477b2.jpg",
     "static/media/10.jpg": "/xenonstack/static/media/10.4e57aea2a4273ad1ce5b.jpg",
     "static/media/5.jpg": "/xenonstack/static/media/5.2e80cac3ca0c87182b53.jpg",
@@ -14,14 +14,15 @@
     "static/media/3.jpg": "/xenonstack/static/media/3.fa706575c5874851733a.jpg",
     "static/media/11.jpg": "/xenonstack/static/media/11.aea54f8dd6fb879b638b.jpg",
     "static/media/2.jpg": "/xenonstack/static/media/2.33171b12091d6cff8be6.jpg",
+    "static/media/Resume.pdf": "/xenonstack/static/media/Resume.d826205286ffd191588c.pdf",
     "static/media/logo.png": "/xenonstack/static/media/logo.df8dc739054f25bf183f.png",
     "static/media/bg.png": "/xenonstack/static/media/bg.a7aebeaf58d091c3bcd1.png",
     "index.html": "/xenonstack/index.html",
-    "main.5d0a97ee.css.map": "/xenonstack/static/css/main.5d0a97ee.css.map",
-    "main.3c6eacf1.js.map": "/xenonstack/static/js/main.3c6eacf1.js.map"
+    "main.79fcc3cf.css.map": "/xenonstack/static/css/main.79fcc3cf.css.map",
+    "main.d0ca5bf5.js.map": "/xenonstack/static/js/main.d0ca5bf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d0a97ee.css",
-    "static/js/main.3c6eacf1.js"
+    "static/css/main.79fcc3cf.css",
+    "static/js/main.d0ca5bf5.js"
   ]
 }
