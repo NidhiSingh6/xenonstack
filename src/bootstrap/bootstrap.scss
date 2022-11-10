@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+
+$custom-theme-colors: (
+    "gp-primary":#038578,
+    "gp-primary-dark" : #026c62,
+    "gp-primary-light" :#049e8f,
+    "gp-secondary" :#d4d4d4
+);
+
+
+// $custom-theme-colors-rgb: map-loop($custom-theme-colors, to-rgb, "$value");
+// $theme-colors-rgb : map-merge($custom-theme-colors-rgb,$theme-colors-rgb);
+
+$theme-colors : map-merge($custom-theme-colors,$theme-colors);
+@import "../../node_modules/bootstrap/scss/bootstrap";
