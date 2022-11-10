@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/xenonstack/static/css/main.79fcc3cf.css",
-    "main.js": "/xenonstack/static/js/main.d0ca5bf5.js",
+    "main.css": "/xenonstack/static/css/main.a23e44fc.css",
+    "main.js": "/xenonstack/static/js/main.dd7d176e.js",
     "static/media/9.jpg": "/xenonstack/static/media/9.8fdbbd2e7e4c037477b2.jpg",
     "static/media/10.jpg": "/xenonstack/static/media/10.4e57aea2a4273ad1ce5b.jpg",
     "static/media/5.jpg": "/xenonstack/static/media/5.2e80cac3ca0c87182b53.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/xenonstack/static/media/logo.df8dc739054f25bf183f.png",
     "static/media/bg.png": "/xenonstack/static/media/bg.a7aebeaf58d091c3bcd1.png",
     "index.html": "/xenonstack/index.html",
-    "main.79fcc3cf.css.map": "/xenonstack/static/css/main.79fcc3cf.css.map",
-    "main.d0ca5bf5.js.map": "/xenonstack/static/js/main.d0ca5bf5.js.map"
+    "main.a23e44fc.css.map": "/xenonstack/static/css/main.a23e44fc.css.map",
+    "main.dd7d176e.js.map": "/xenonstack/static/js/main.dd7d176e.js.map"
   },
   "entrypoints": [
-    "static/css/main.79fcc3cf.css",
-    "static/js/main.d0ca5bf5.js"
+    "static/css/main.a23e44fc.css",
+    "static/js/main.dd7d176e.js"
   ]
 }
